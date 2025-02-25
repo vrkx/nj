@@ -1,19 +1,15 @@
 {
-    
-    "items": [
-
+   "news": [
         {
             "id" : 6,
             "Title": "We are preparing the launcher!",
             "description": "We are starting to configure and prepare the launcher for the release of Stellar!",
             "date" : "2024-01-31",
             "image": "Config.png",
-      
             "color": "#104070",
             "grcolor": "#2d832d",
-               "isold" : "true"
+            "isold" : "true"
         },
-
         {
             "id" : 5,
             "Title": "LauncherV1 won't be updated.",
@@ -23,16 +19,14 @@
             "gradient" : true,
             "color": "#701010",
             "grcolor": "#901010",
-               "isold" : "true"
+            "isold" : "true"
         },
-
         {
             "id" : 4,
             "Title": "Private Test's in Stellar",
             "description": "We are currently testing the private test's in Stellar for a fresh release!",
             "date" : "2024-01-31",
             "image": "l.png",
-
             "color": "#34e718",
             "grcolor": "#2d832d",
             "isold" : "true"
@@ -45,9 +39,8 @@
             "date" : "2024-01-31",
             "image": "Discord.png",
             "color": "#7289da",
-               "isold" : "true"
+            "isold" : "true"
         },
-
         {
             "id" : 2,
             "Title": "Have you seen issues?",
@@ -55,7 +48,7 @@
             "date" : "2024-01-29",
             "image": "Issues.png",
             "color": "#ff5e00",
-              "isold" : "true"
+            "isold" : "true"
         },
         {
             "id" : 1,
@@ -65,7 +58,6 @@
             "image": "News.png",
             "color": "#0051FF",
             "isold" : "true"
-          
         }
     ]
 }
