@@ -8,12 +8,10 @@
             "description": "We are starting to configure and prepare the launcher for the release of Stellar!",
             "date" : "2024-01-31",
             "image": "Config.png",
-            "gradient" : true,
+      
             "color": "#104070",
             "grcolor": "#2d832d",
-            "isold" : false,
-
-            "tags": ["!!!", "LAUNCHER"]
+               "isold" : "true"
         },
 
         {
@@ -25,9 +23,7 @@
             "gradient" : true,
             "color": "#701010",
             "grcolor": "#901010",
-            "isold" : false,
-
-            "tags": ["!!!", "LAUNCHER","V2", "!!!"]
+               "isold" : "true"
         },
 
         {
@@ -36,12 +32,10 @@
             "description": "We are currently testing the private test's in Stellar for a fresh release!",
             "date" : "2024-01-31",
             "image": "l.png",
-            "gradient" : true,
+
             "color": "#34e718",
             "grcolor": "#2d832d",
-            "isold" : true,
-
-            "tags": ["OLD", "TESTING"]
+            "isold" : "true"
 
         },
         {
@@ -50,11 +44,8 @@
             "description": "We are giving more updates about stellar development on our discord server, so join!",
             "date" : "2024-01-31",
             "image": "Discord.png",
-            "gradient" : false,
             "color": "#7289da",
-            "isold" : true,
-
-            "tags": ["OLD","DISCORD"]
+               "isold" : "true"
         },
 
         {
@@ -64,10 +55,7 @@
             "date" : "2024-01-29",
             "image": "Issues.png",
             "color": "#ff5e00",
-            "isold" : true,
-            "gradient" : false,
-
-            "tags": ["OLD", "TIP"]
+              "isold" : "true"
         },
         {
             "id" : 1,
@@ -76,10 +64,8 @@
             "date" : "2024-01-28",
             "image": "News.png",
             "color": "#0051FF",
-            "isold" : true,
-            "gradient" : false,
-
-            "tags": ["OLD", "BETA"]
+            "isold" : "true"
+          
         }
     ]
 }
