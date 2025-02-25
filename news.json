@@ -1,0 +1,59 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Major Tech Company Announces Breakthrough in AI",
+      "description": "A leading technology company has revealed a significant advancement in artificial intelligence, promising to revolutionize various industries.",
+      "category": "Technology",
+      "published_date": "2023-10-27T10:00:00Z",
+      "author": "Jane Doe",
+      "image_url": "https://example.com/images/ai_breakthrough.jpg",
+      "source": "TechNews Daily",
+      "url": "https://example.com/article/ai-breakthrough"
+    },
+    {
+      "id": "2",
+      "title": "Global Stock Markets Experience Sharp Decline",
+      "description": "Global stock markets witnessed a sudden and substantial drop, triggering concerns among investors worldwide.",
+      "category": "Business",
+      "published_date": "2023-10-27T12:30:00Z",
+      "author": "John Smith",
+      "image_url": "https://example.com/images/stock_market_crash.jpg",
+      "source": "Financial Times",
+      "url": "https://example.com/article/stock-decline"
+    },
+    {
+      "id": "3",
+      "title": "Scientists Discover New Species of Marine Life",
+      "description": "A team of marine biologists has discovered a previously unknown species of marine life during an expedition in the Pacific Ocean.",
+      "category": "Science",
+      "published_date": "2023-10-27T14:45:00Z",
+      "author": "Alice Johnson",
+      "image_url": "https://example.com/images/new_species.jpg",
+      "source": "Nature Journal",
+      "url": "https://example.com/article/marine-discovery"
+    },
+    {
+      "id": "4",
+      "title": "City Announces Plans for New Public Park",
+      "description": "The city council has unveiled plans to develop a new public park, aiming to enhance green spaces and recreational opportunities for residents.",
+      "category": "Local News",
+      "published_date": "2023-10-27T16:00:00Z",
+      "author": "David Lee",
+      "image_url": "https://example.com/images/city_park.jpg",
+      "source": "City Gazette",
+      "url": "https://example.com/article/new-park"
+    },
+     {
+      "id": "5",
+      "title": "Severe Weather Warning Issued for Coastal Regions",
+      "description": "Meteorologists have issued a severe weather warning for coastal regions, predicting heavy rainfall and strong winds.",
+      "category": "Weather",
+      "published_date": "2023-10-27T17:30:00Z",
+      "author": "Emily White",
+      "image_url": "https://example.com/images/weather_warning.jpg",
+      "source": "Weather Channel",
+      "url": "https://example.com/article/severe-weather"
+    }
+  ]
+}
